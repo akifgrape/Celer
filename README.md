@@ -19,8 +19,6 @@ Made by [Akif Grape ](https://twitter.com/akifgrape)
 	- [Switching between dark and light mode](#switching-between-dark-and-light-mode)
 - [List of commands](#list-of-commands)
 - [Self-hosting Celer](#self-hosting-Celer)
-	- [Installing on Chrome](#installing-on-chrome)
-	- [Installing on Firefox](#installing-on-firefox) 
 - [Libraries used](#libraries-used)
 
 ## Features
